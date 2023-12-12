@@ -13,8 +13,10 @@ O objetivo principal do curso Projeto Monty Python: Formação de Análise Predi
 Essas instruções permitirão que você tenha uma cópia dos exercícios em execução na sua máquina local.
 
 ### 📋 Pré-requisitos
-
-Você precisa ter instalado  no seu sistema operacional o VSCode para ter acesso aos códigos. 
+Antes de começar, certifique-se de ter instalado em seu sistema operacional:
+* [Navegador Web](https://www.google.com/chrome/) para visualizar o projeto localmente.
+* [Visual Studio Code](https://code.visualstudio.com/) para acessar e editar os códigos.
+  
 ### 🔧 Instalação
 
 1. Clone este repositório para o seu computador.
