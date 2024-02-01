@@ -19,7 +19,7 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 
 1. Clone este repositório:
    <br>
-   ```git clone https://github.com/fernandesmelo/monty-python.git```
+   ```git clone https://github.com/fernandesmelo/challenge-decodificador-de-texto.git```
 
 2. Abra o Visual Studio Code:
    * Clique em "Arquivo" (ou "File") no canto superior esquerdo da janela.
@@ -27,11 +27,9 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
    * Após selecionar a pasta, ela será aberta no VSCode.
    * Você verá a estrutura de pastas e arquivos do projeto no painel lateral esquerdo.
    * A partir daqui, você pode explorar, editar e trabalhar com os arquivos da pasta aberta diretamente no VSCode.
-     
-A partir daqui, você pode explorar, editar e trabalhar com os arquivos da pasta aberta diretamente no VSCode.
 
 ### 🎉 Parabéns!
-Agora você tem os exercícios instalado e rodando localmente. Bom desenvolvimento!
+Agora você tem os arquivos Python instalado e rodando localmente. Bom desenvolvimento!
 
 ## ⚙️ Executando os Testes
 
